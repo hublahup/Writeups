@@ -12,5 +12,5 @@ hints
 3.	Ingat, Anda dapat mengalirkan output dari satu perintah ke perintah lain dengan menggunakan |. Cobalah berlatih dengan tantangan 'First Grep' jika Anda mengalami kesulitan!
 
 ```sh
-$ echo "Hello, World!"
-Hello, World!
+sisiuk
+
