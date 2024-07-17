@@ -13,6 +13,7 @@ hints
 
 
 Untuk mengerjakan tantangan ini, pertama saya mengunduh file 
+
 ![Verify](../../AssetImage/Picture2.png)
 
 dari file yang di unduh, ada file checksum.txt yang menjadi petunjuk hash kita yaitu 467a10447deb3d4e17634cacc2a68ba6c2bb62a6637dad9145ea673bf0be5e02
