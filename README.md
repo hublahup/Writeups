@@ -30,12 +30,11 @@ Setiap writeup mencakup:
 Writeup diorganisasikan ke dalam kategori berdasarkan jenis tantangan:
 
 - [Binary Exploitation](PicoCTF/Binary%20Exploitation/)
-- [Kriptografi](tantangan/kriptografi/)
-- [Forensik](tantangan/forensik/)
-- [Eksploitasi Web](tantangan/eksploitasi_web/)
-- [Reverse Engineering](tantangan/reverse_engineering/)
-- [Lainnya](tantangan/lainnya/)
+- [Cryptography](PicoCTF/Cryptography/)
+- [Forensics](PicoCTF/Forensics/)
+- [General Skills](PicoCTF/General%20Skills/)
+- [Reverse Engineering](PicoCTF/Reverse%20Engineering/)
+- [Web Exploitation](PicoCTF/Web%20Exploitation/)
 
 Setiap kategori berisi folder untuk acara atau platform CTF individu, dan di dalam folder tersebut, Anda akan menemukan writeup untuk tantangan spesifik.
 
-### Struktur Repositori
