@@ -1,3 +1,3 @@
 ## VERIFY
 
-![Verify](PicoCTF/AssetImage/Picture1.png)
+![Verify](./AssetImage/Picture1.png)
