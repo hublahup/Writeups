@@ -11,9 +11,6 @@ Selamat datang di Repositori Writeups CTF! Repositori ini berisi writeup detail 
 - [Pendahuluan](#pendahuluan)
 - [Tantangan](#tantangan)
 - [Kategori Tantangan](#kategori-tantangan)
-- [Alat dan Sumber Daya](#alat-dan-sumber-daya)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
 
 ## Pendahuluan
 
