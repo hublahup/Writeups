@@ -29,8 +29,7 @@ Setiap writeup mencakup:
 
 Writeup diorganisasikan ke dalam kategori berdasarkan jenis tantangan:
 
-- [Binary Exploitation](PicoCTF
-/Binary Exploitation/)
+- [Binary Exploitation](PicoCTF/Binary%20Exploitation/)
 - [Kriptografi](tantangan/kriptografi/)
 - [Forensik](tantangan/forensik/)
 - [Eksploitasi Web](tantangan/eksploitasi_web/)
