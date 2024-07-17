@@ -8,7 +8,6 @@ Selamat datang di bagian Forensik dari repositori Writeups CTF! Di sini, Anda ak
 - [Tantangan](#tantangan)
 - [Alat dan Sumber Daya](#alat-dan-sumber-daya)
 - [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
 
 ## Pendahuluan
 
