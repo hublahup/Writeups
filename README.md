@@ -4,7 +4,7 @@
 
 ## Ikhtisar
 
-Selamat datang di Repositori Writeups CTF! Repositori ini berisi writeup detail untuk berbagai tantangan Capture The Flag (CTF), khususnya dari picoCTF. Tujuannya adalah untuk mendokumentasikan proses berpikir, teknik, dan alat yang digunakan untuk menyelesaikan setiap tantangan, sehingga menjadi sumber yang berharga bagi mereka yang belajar dan berkompetisi dalam CTF.
+Selamat datang di Repositori Writeups CTF! Repositori ini berisi writeup detail untuk berbagai tantangan Capture The Flag (CTF). Tujuannya adalah untuk mendokumentasikan proses berpikir, teknik, dan alat yang digunakan untuk menyelesaikan setiap tantangan, sehingga menjadi sumber yang berharga bagi mereka yang belajar dan berkompetisi dalam CTF.
 
 ## Daftar Isi
 
