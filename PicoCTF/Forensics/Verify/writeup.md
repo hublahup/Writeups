@@ -1,3 +1,3 @@
 ## VERIFY
 
-![Verify](../AssetImage/Picture1.png)
+![Verify](.../AssetImage/Picture1.png)
