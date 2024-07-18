@@ -1,6 +1,6 @@
 # Forensik - Writeups CTF
 
-![Forensik](https://www.ignitetechnologies.in/images/digital-forensic.png)
+![Forensik](https://5.imimg.com/data5/EW/VJ/UK/GLADMIN-10579477/selection-005-500x500.png)
 
 Selamat datang di bagian Forensik dari repositori Writeups CTF! Di sini, Anda akan menemukan writeup detail untuk berbagai tantangan forensik dalam kompetisi picoCTF.
 
