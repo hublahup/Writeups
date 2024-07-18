@@ -2,6 +2,8 @@
 
 ![CTF](https://img.shields.io/badge/CTF-Writeups-blue.svg)
 
+![ctflogo](https://d3nx3gj6vp1fu3.cloudfront.net/wp-content/uploads/2023/09/29234219/image_2023-09-15_062352975-1024x544.jpg)
+
 ## Ikhtisar
 
 Selamat datang di Repositori Writeups CTF! Repositori ini berisi writeup detail untuk berbagai tantangan Capture The Flag (CTF). Tujuannya adalah untuk mendokumentasikan proses berpikir, teknik, dan alat yang digunakan untuk menyelesaikan setiap tantangan, sehingga menjadi sumber yang berharga bagi mereka yang belajar dan berkompetisi dalam CTF.
