@@ -25,7 +25,7 @@ Untuk selanjutnya, kita bisa menggunakan perintah pada terminal untuk melihat fi
 sha256sum files/*
 ```
 
-![Verify](../../AssetImage/Screenshot_2024-07-20_232943.png)
+![Verify](../../AssetImage/Picture3.png)
 
 Berhubung sangat banyak files dan sangat susah untuk mencocokan nilai hash pada checksum.txt dengan banyak pada folder files
 
@@ -35,5 +35,13 @@ untuk itu kita akan menambahkan perintah grep `|` untuk mempermudah menemukan fi
 sha256sum files/* | grep "467a10447deb3*"
 ```
 
-![Verify](../../AssetImage/Screenshot_2024-07-20_233912.png)
+![Verify](../../AssetImage/Picture4.png)
 
+Setelah menemukan hasil yang sama kita tinggal mendekrip dari file tersebut 
+
+```sh
+decrypt.sh files/c6c8b911
+```
+Kita bisa menemukan flag tersebut
+
+![Verify](../../AssetImage/Picture5.png)
