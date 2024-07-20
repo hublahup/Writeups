@@ -17,7 +17,10 @@ Untuk mengerjakan tantangan ini, pertama saya mengunduh file
 ![Verify](../../AssetImage/Picture2.png)
 
 dari file yang di unduh, ada file checksum.txt yang menjadi petunjuk hash kita yaitu 467a10447deb3d4e17634cacc2a68ba6c2bb62a6637dad9145ea673bf0be5e02
-untuk selanjutnya, kita bisa menggunakan perintah pada terminal untuk melihat file hash dari isi direktori files, perintah yang dijalankan adalah
+
+![Verify](../../AssetImage/image.png)
+
+Untuk selanjutnya, kita bisa menggunakan perintah pada terminal untuk melihat file hash dari isi direktori files, perintah yang dijalankan adalah
 ```sh
 sha256sum files/*
 ```
