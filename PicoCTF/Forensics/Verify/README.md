@@ -25,3 +25,15 @@ Untuk selanjutnya, kita bisa menggunakan perintah pada terminal untuk melihat fi
 sha256sum files/*
 ```
 
+![Verify](../../AssetImage/Screenshot_2024-07-20_232943.png)
+
+Berhubung sangat banyak files dan sangat susah untuk mencocokan nilai hash pada checksum.txt dengan banyak pada folder files
+
+untuk itu kita akan menambahkan perintah grep `|` untuk mempermudah menemukan file hash yang sama
+
+```sh
+sha256sum files/* | grep "467a10447deb3*"
+```
+
+![Verify](../../AssetImage/Screenshot_2024-07-20_233912.png)
+
